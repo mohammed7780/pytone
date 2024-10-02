@@ -1,0 +1,2 @@
+[console_scripts]
+greet = my_project.my_module:main_function

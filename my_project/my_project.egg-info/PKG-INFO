@@ -1,9 +1,3 @@
 Metadata-Version: 2.1
 Name: my_project
 Version: 0.1
-Summary: مشروع بايثون بسيط على أوبنتو
-Home-page: https://github.com/username/my_project
-Author: اسمك
-Author-email: email@example.com
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
